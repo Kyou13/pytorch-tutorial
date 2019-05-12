@@ -11,6 +11,7 @@ torchvision = "*"
 jupyter = "*"
 matplotlib = "*"
 jupyter-contrib-nbextensions = "*"
+opencv-python = "*"
 
 [requires]
 python_version = "3.7"
